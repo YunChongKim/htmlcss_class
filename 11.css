@@ -1,0 +1,47 @@
+form{
+  background-color: rgb(255, 255, 255);
+  width: 100%;
+}
+
+
+.fdiv{
+  display: flex; 
+/* 옆으로 나란히 */
+  justify-content: center;
+  /* 박스의 중간으로 */
+  align-items: center;
+  
+
+}
+
+.div1{
+  width: 50%;
+  text-align: center;
+}
+
+#txt2{
+  background-color: antiquewhite;
+}
+
+input[type=text] {
+  width: 80%;
+  height: 40px;
+  
+}
+.fdiv2{
+  display: flex; 
+/* 옆으로 나란히 */
+  justify-content: center;
+  /* 박스의 중간으로 */
+
+
+}
+.BT{
+  width: 33%;
+  display: flex;
+  justify-content: center;
+}
+
+#bt1,#bt2,#bt3 {
+  width: 90%;
+}
